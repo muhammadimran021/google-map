@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "175476490497",
+    "firebase_url": "https://twodevices-e26e3.firebaseio.com",
+    "project_id": "twodevices-e26e3",
+    "storage_bucket": "twodevices-e26e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175476490497:android:097b50cc02b7235e",
+        "android_client_info": {
+          "package_name": "com.example.muhammadimran.androidservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175476490497-kl54v4qprc8idskqh0lb495ofgrm267n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDShdJUTueKzSrCkpJnFAgRg1URo1s2Gvo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
